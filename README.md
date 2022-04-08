@@ -12,25 +12,17 @@
 <h3> 🛠 &nbsp;My Utility Belt consists of:-</h3>
 
 &nbsp; &nbsp; &nbsp; 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=63f542)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
+  
 &nbsp; &nbsp; &nbsp; 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
   
-
 &nbsp; &nbsp; &nbsp; 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Oracle DB](https://img.shields.io/badge/-OracleDB-333333?style=flat&logo=oracle)
 
 &nbsp; &nbsp; &nbsp; ⚙️ &nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
